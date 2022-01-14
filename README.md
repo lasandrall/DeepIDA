@@ -10,7 +10,7 @@ A deep learning method for simultaneously integrating data from multiple sources
 Deep IDA: A Deep Learning Method for Integrative Discriminant Analysis of Multi-View Data with Feature Ranking by 
 Jiuzhou Wang and  Sandra E. Safo.
 
-These are the main functions found in 
+These are the main functions found in main_functions.py. The helper_functions.py has functions called by the main functions. 
 
 DeepIDA_nonBootstrap: For non-bootstrap option of Deep IDA. Does not implement variable ranking/selection. It returns the classification accuracy/labels based on DeepIDA+NCC (Deep IDA with nearest centroid classification), SVM on stacked or individual data, and the variables selected by Deep IDA+TS (Deep IDA + Teacher Student Network).
 
