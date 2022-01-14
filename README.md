@@ -1,4 +1,4 @@
-# Deep IDA (Deep Integrative Discriminant Analysis) for Multi-view Data
+# Deep IDA (Deep Integrative Discriminant Analysis) for Multi-view Data With Feature Ranking
 A deep learning method for simultaneously integrating data from multiple sources and classifying subjects or units into one of two or more groups that permit variable ranking, and yields interpretable findings. The method also can be used in situations where variable ranking or selection is not needed.
 
 1. Please check Reproducibility.ipynb for examples.
