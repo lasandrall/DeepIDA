@@ -12,7 +12,7 @@ Jiuzhou Wang and  Sandra E. Safo.
 
 These are the main functions found in 
 
-DeepIDA_nonBootstrap: For non-bootstrap option of Deep IDA. Does not implement variable ranking/selection. It returns the classification accuracy/labels based on DeepIDA+NCC (Deep IDA with nearest centroid classification), SVM on stacked or individual data, and the variable selected by Deep IDA+TS (Deep IDA + Teacher Student Network).
+DeepIDA_nonBootstrap: For non-bootstrap option of Deep IDA. Does not implement variable ranking/selection. It returns the classification accuracy/labels based on DeepIDA+NCC (Deep IDA with nearest centroid classification), SVM on stacked or individual data, and the variables selected by Deep IDA+TS (Deep IDA + Teacher Student Network).
 
 DeepIDA_VS: For implementing variable ranking/selection. It returns indices and figures (also in pdf) of top 10% selected variables in each view, and all feature importances in the csv files for users' interests.
 
